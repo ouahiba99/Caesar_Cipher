@@ -2,6 +2,6 @@
 
 caesar cipher to encrypt and decrypt texts 
 
-run the code and then write in the terminal to encrypt and 
+run the code and then write in 
 
-decrypt.
+the terminal to encrypt and decrypt.
